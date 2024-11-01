@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sanil25jain
   
 - Connect with me:
-  [LinkedIn](https://www.linkedin.com/in/sanil25jain/)
-  [LeetCode](https://leetcode.com/u/sanil25jain/)
-  [Codeforces](https://codeforces.com/profile/sanil25jain)
-  [Kaggle](https://www.kaggle.com/sanil25jain)
+  [LinkedIn](https://www.linkedin.com/in/sanil25jain/) <br>
+  [LeetCode](https://leetcode.com/u/sanil25jain/) <br>
+  [Codeforces](https://codeforces.com/profile/sanil25jain) <br>
+  [Kaggle](https://www.kaggle.com/sanil25jain) <br>
   
 
 <!---
