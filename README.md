@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanil25jain
   
-- Connect with me:
+- Connect with me: <br>
   [LinkedIn](https://www.linkedin.com/in/sanil25jain/) <br>
   [LeetCode](https://leetcode.com/u/sanil25jain/) <br>
   [Codeforces](https://codeforces.com/profile/sanil25jain) <br>
